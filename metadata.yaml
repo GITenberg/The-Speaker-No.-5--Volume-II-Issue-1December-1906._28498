@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '33367'
     url: http://www.gutenberg.org/2009/agents/33367
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28498#The-Speaker-No.-5--Volume-II-Issue-1December-1906.
 gutenberg_bookshelf: The Speaker
 gutenberg_issued: '2009-04-05'
 gutenberg_type: Text
